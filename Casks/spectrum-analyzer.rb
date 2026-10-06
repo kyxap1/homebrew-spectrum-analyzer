@@ -1,6 +1,6 @@
 cask "spectrum-analyzer" do
-  version "0.1.4"
-  sha256 "91e24914e67ddb9016230d3710984961b44d7e02f81c0a09ddb2cb320fcedc2a"
+  version "0.1.7"
+  sha256 "5cba1f60bbe20a464b36cb059af8aa894f679325ee231e6e9ad46783babfa3c9"
 
   url "https://github.com/kyxap1/spectrum-analyzer/releases/download/v#{version}/SpectrumAnalyzer-#{version}.zip"
   name "Spectrum Analyzer"
